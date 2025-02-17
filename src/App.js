@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dadu Nagar Co Op Society
+          Project in process
         </a>
       </header>
     </div>
